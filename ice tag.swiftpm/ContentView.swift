@@ -24,7 +24,7 @@ struct ContentView: View {
         ("GRAB Level", "https://grabvr.quest/levels/viewer/?level=2dahfrbinl80vn8h8u754:1725132872")
     ]
     
-    @State private var currentURL = URL(string: "https://www.apple.com")!
+    @State private var currentURL = URL(string: "https://sites.google.com/view/icelabs/home")!
     
     var body: some View {
         VStack(spacing: 0) {
