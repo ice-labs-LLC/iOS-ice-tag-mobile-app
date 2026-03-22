@@ -1,0 +1,49 @@
+{
+  "" : {
+    "diagnostics" : "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice%20tag/build/Build/Intermediates.noindex/ice tag.build/Debug/ice tag.build/Objects-normal/x86_64/ice tag-primary.dia",
+    "emit-module-dependencies" : "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice%20tag/build/Build/Intermediates.noindex/ice tag.build/Debug/ice tag.build/Objects-normal/x86_64/ice tag-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice%20tag/build/Build/Intermediates.noindex/ice tag.build/Debug/ice tag.build/Objects-normal/x86_64/ice tag-primary-emit-module.dia",
+    "pch" : "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice%20tag/build/Build/Intermediates.noindex/ice tag.build/Debug/ice tag.build/Objects-normal/x86_64/ice tag-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice%20tag/build/Build/Intermediates.noindex/ice tag.build/Debug/ice tag.build/Objects-normal/x86_64/ice tag-primary.swiftdeps"
+  },
+  "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice tag/ice tag/ContentView.swift" : {
+    "const-values" : "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice%20tag/build/Build/Intermediates.noindex/ice tag.build/Debug/ice tag.build/Objects-normal/x86_64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice%20tag/build/Build/Intermediates.noindex/ice tag.build/Debug/ice tag.build/Objects-normal/x86_64/ContentView.d",
+    "diagnostics" : "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice%20tag/build/Build/Intermediates.noindex/ice tag.build/Debug/ice tag.build/Objects-normal/x86_64/ContentView.dia",
+    "index-unit-output-path" : "/ice tag.build/Debug/ice tag.build/Objects-normal/x86_64/ContentView.o",
+    "llvm-bc" : "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice%20tag/build/Build/Intermediates.noindex/ice tag.build/Debug/ice tag.build/Objects-normal/x86_64/ContentView.bc",
+    "object" : "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice%20tag/build/Build/Intermediates.noindex/ice tag.build/Debug/ice tag.build/Objects-normal/x86_64/ContentView.o",
+    "swift-dependencies" : "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice%20tag/build/Build/Intermediates.noindex/ice tag.build/Debug/ice tag.build/Objects-normal/x86_64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice%20tag/build/Build/Intermediates.noindex/ice tag.build/Debug/ice tag.build/Objects-normal/x86_64/ContentView~partial.swiftmodule"
+  },
+  "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice tag/ice tag/InfoView.swift" : {
+    "const-values" : "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice%20tag/build/Build/Intermediates.noindex/ice tag.build/Debug/ice tag.build/Objects-normal/x86_64/InfoView.swiftconstvalues",
+    "dependencies" : "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice%20tag/build/Build/Intermediates.noindex/ice tag.build/Debug/ice tag.build/Objects-normal/x86_64/InfoView.d",
+    "diagnostics" : "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice%20tag/build/Build/Intermediates.noindex/ice tag.build/Debug/ice tag.build/Objects-normal/x86_64/InfoView.dia",
+    "index-unit-output-path" : "/ice tag.build/Debug/ice tag.build/Objects-normal/x86_64/InfoView.o",
+    "llvm-bc" : "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice%20tag/build/Build/Intermediates.noindex/ice tag.build/Debug/ice tag.build/Objects-normal/x86_64/InfoView.bc",
+    "object" : "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice%20tag/build/Build/Intermediates.noindex/ice tag.build/Debug/ice tag.build/Objects-normal/x86_64/InfoView.o",
+    "swift-dependencies" : "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice%20tag/build/Build/Intermediates.noindex/ice tag.build/Debug/ice tag.build/Objects-normal/x86_64/InfoView.swiftdeps",
+    "swiftmodule" : "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice%20tag/build/Build/Intermediates.noindex/ice tag.build/Debug/ice tag.build/Objects-normal/x86_64/InfoView~partial.swiftmodule"
+  },
+  "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice tag/ice tag/ice_tagApp.swift" : {
+    "const-values" : "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice%20tag/build/Build/Intermediates.noindex/ice tag.build/Debug/ice tag.build/Objects-normal/x86_64/ice_tagApp.swiftconstvalues",
+    "dependencies" : "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice%20tag/build/Build/Intermediates.noindex/ice tag.build/Debug/ice tag.build/Objects-normal/x86_64/ice_tagApp.d",
+    "diagnostics" : "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice%20tag/build/Build/Intermediates.noindex/ice tag.build/Debug/ice tag.build/Objects-normal/x86_64/ice_tagApp.dia",
+    "index-unit-output-path" : "/ice tag.build/Debug/ice tag.build/Objects-normal/x86_64/ice_tagApp.o",
+    "llvm-bc" : "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice%20tag/build/Build/Intermediates.noindex/ice tag.build/Debug/ice tag.build/Objects-normal/x86_64/ice_tagApp.bc",
+    "object" : "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice%20tag/build/Build/Intermediates.noindex/ice tag.build/Debug/ice tag.build/Objects-normal/x86_64/ice_tagApp.o",
+    "swift-dependencies" : "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice%20tag/build/Build/Intermediates.noindex/ice tag.build/Debug/ice tag.build/Objects-normal/x86_64/ice_tagApp.swiftdeps",
+    "swiftmodule" : "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice%20tag/build/Build/Intermediates.noindex/ice tag.build/Debug/ice tag.build/Objects-normal/x86_64/ice_tagApp~partial.swiftmodule"
+  },
+  "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice%20tag/build/Build/Intermediates.noindex/ice tag.build/Debug/ice tag.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice%20tag/build/Build/Intermediates.noindex/ice tag.build/Debug/ice tag.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice%20tag/build/Build/Intermediates.noindex/ice tag.build/Debug/ice tag.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice%20tag/build/Build/Intermediates.noindex/ice tag.build/Debug/ice tag.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/ice tag.build/Debug/ice tag.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice%20tag/build/Build/Intermediates.noindex/ice tag.build/Debug/ice tag.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice%20tag/build/Build/Intermediates.noindex/ice tag.build/Debug/ice tag.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice%20tag/build/Build/Intermediates.noindex/ice tag.build/Debug/ice tag.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice%20tag/build/Build/Intermediates.noindex/ice tag.build/Debug/ice tag.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

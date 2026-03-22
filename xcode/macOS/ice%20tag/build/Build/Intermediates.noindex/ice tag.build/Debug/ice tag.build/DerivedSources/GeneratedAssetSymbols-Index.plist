@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array/>
+	<key>images</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice tag/ice tag/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIcebergWatersAntarcticaBackgroundRemoved</string>
+			<key>relativePath</key>
+			<string>./icecon/Assets/Iceberg-waters-Antarctica Background Removed.imageset</string>
+			<key>swiftSymbol</key>
+			<string>icebergWatersAntarcticaBackgroundRemoved</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice tag/ice tag/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameUntitled</string>
+			<key>relativePath</key>
+			<string>./icecon/Assets/Untitled.imageset</string>
+			<key>swiftSymbol</key>
+			<string>untitled</string>
+		</dict>
+	</array>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>

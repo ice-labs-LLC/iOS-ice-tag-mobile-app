@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>12</integer>
+	<key>logs</key>
+	<dict>
+		<key>153C85CC-4E5B-4B88-838C-449DE7277862</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>153C85CC-4E5B-4B88-838C-449DE7277862.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ice tag project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ice tag</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ice tag</string>
+			<key>timeStartedRecording</key>
+			<real>795884451.46649897</real>
+			<key>timeStoppedRecording</key>
+			<real>795884458.62562001</real>
+			<key>title</key>
+			<string>Build ice tag</string>
+			<key>uniqueIdentifier</key>
+			<string>153C85CC-4E5B-4B88-838C-449DE7277862</string>
+		</dict>
+		<key>381BE868-47E6-4E51-8C38-148DB56BC1C4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>381BE868-47E6-4E51-8C38-148DB56BC1C4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ice tag project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ice tag</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ice tag</string>
+			<key>timeStartedRecording</key>
+			<real>795885136.42104399</real>
+			<key>timeStoppedRecording</key>
+			<real>795885137.25968802</real>
+			<key>title</key>
+			<string>Build ice tag</string>
+			<key>uniqueIdentifier</key>
+			<string>381BE868-47E6-4E51-8C38-148DB56BC1C4</string>
+		</dict>
+		<key>3EFBD21D-6B9A-44ED-A2DA-2201451B236B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3EFBD21D-6B9A-44ED-A2DA-2201451B236B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ice tag project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ice tag</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ice tag</string>
+			<key>timeStartedRecording</key>
+			<real>795885137.56250405</real>
+			<key>timeStoppedRecording</key>
+			<real>795885138.35825002</real>
+			<key>title</key>
+			<string>Build ice tag</string>
+			<key>uniqueIdentifier</key>
+			<string>3EFBD21D-6B9A-44ED-A2DA-2201451B236B</string>
+		</dict>
+		<key>48024CB2-5E4B-4D5E-A258-2F299CFE02A0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>48024CB2-5E4B-4D5E-A258-2F299CFE02A0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ice tag project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ice tag</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ice tag</string>
+			<key>timeStartedRecording</key>
+			<real>795885133.20966005</real>
+			<key>timeStoppedRecording</key>
+			<real>795885133.95684302</real>
+			<key>title</key>
+			<string>Build ice tag</string>
+			<key>uniqueIdentifier</key>
+			<string>48024CB2-5E4B-4D5E-A258-2F299CFE02A0</string>
+		</dict>
+		<key>4823C669-2C02-45ED-A9E8-5DB9772EFAA4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4823C669-2C02-45ED-A9E8-5DB9772EFAA4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ice tag project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ice tag</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean ice tag</string>
+			<key>timeStartedRecording</key>
+			<real>795884446.17054605</real>
+			<key>timeStoppedRecording</key>
+			<real>795884446.36890399</real>
+			<key>title</key>
+			<string>Clean ice tag</string>
+			<key>uniqueIdentifier</key>
+			<string>4823C669-2C02-45ED-A9E8-5DB9772EFAA4</string>
+		</dict>
+		<key>72E479AA-8D1F-4D10-9219-AEA054742C99</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>72E479AA-8D1F-4D10-9219-AEA054742C99.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ice tag project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ice tag</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ice tag</string>
+			<key>timeStartedRecording</key>
+			<real>795885124.00859594</real>
+			<key>timeStoppedRecording</key>
+			<real>795885126.04310298</real>
+			<key>title</key>
+			<string>Build ice tag</string>
+			<key>uniqueIdentifier</key>
+			<string>72E479AA-8D1F-4D10-9219-AEA054742C99</string>
+		</dict>
+		<key>DBFF6156-BA66-4B3D-A7CE-C63BB0E3A854</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DBFF6156-BA66-4B3D-A7CE-C63BB0E3A854.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ice tag project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ice tag</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ice tag</string>
+			<key>timeStartedRecording</key>
+			<real>795885135.371369</real>
+			<key>timeStoppedRecording</key>
+			<real>795885136.12135601</real>
+			<key>title</key>
+			<string>Build ice tag</string>
+			<key>uniqueIdentifier</key>
+			<string>DBFF6156-BA66-4B3D-A7CE-C63BB0E3A854</string>
+		</dict>
+		<key>E51EB963-6920-4A27-804F-5EFB390B5B88</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E51EB963-6920-4A27-804F-5EFB390B5B88.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ice tag project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ice tag</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean ice tag</string>
+			<key>timeStartedRecording</key>
+			<real>795884465.63324106</real>
+			<key>timeStoppedRecording</key>
+			<real>795884465.69318104</real>
+			<key>title</key>
+			<string>Clean ice tag</string>
+			<key>uniqueIdentifier</key>
+			<string>E51EB963-6920-4A27-804F-5EFB390B5B88</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

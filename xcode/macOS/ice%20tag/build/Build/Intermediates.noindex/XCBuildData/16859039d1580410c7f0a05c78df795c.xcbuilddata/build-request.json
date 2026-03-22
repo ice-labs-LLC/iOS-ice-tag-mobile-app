@@ -1,0 +1,59 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "4305bb5f5c4f089ff392838134c460fcbce105d43706172e56e05fc0c67494c0"
+    }
+  ],
+  "containerPath" : "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice tag/ice tag.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "undefined_arch",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "macosx",
+      "sdk" : "macosx26.2",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64",
+        "arm64e",
+        "x86_64",
+        "x86_64h"
+      ],
+      "targetArchitecture" : "undefined_arch"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice%20tag/build/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice%20tag/build/Build/Products",
+      "derivedDataPath" : "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice%20tag/build",
+      "indexDataStoreFolderPath" : "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice%20tag/build/ice_tag-fztrdbzrzyvlrwdtwywfackhbmri/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice%20tag/build/ice_tag-fztrdbzrzyvlrwdtwywfackhbmri/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/jacksonwentworth/Documents/iOS-ice-tag-mobile-app/xcode/macOS/ice%20tag/build/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
