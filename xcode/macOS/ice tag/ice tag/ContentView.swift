@@ -95,7 +95,7 @@ struct ContentView: View {
         ("System Requirements", "https://sites.google.com/view/icelabs/ice-tag-system-requirements"),
         ("Submit A Mod", "https://forms.gle/aWVrD8SiwuLpYHUr8"),
         ("itch", "https://jackww51.itch.io/iceygame"),
-        ("GRAB Level", "https://grabvr.quest/levels/viewer/?level=2dahfrbinl80vn8h8u754:1725132872")
+        ("GRAB Level", "https://grabvr.quest/levels/viewer/?level=2dahfrbinl80vn8h8u754:1725132872"),
         ("Blog", "https://sites.google.com/view/icelabs/blog")
     ]
 

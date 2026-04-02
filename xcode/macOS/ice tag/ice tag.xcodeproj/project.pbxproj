@@ -281,6 +281,7 @@
 				ENABLE_RESOURCE_ACCESS_USB = NO;
 				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "ice-tag-Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "ice tag";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.action-games";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
@@ -327,6 +328,7 @@
 				ENABLE_RESOURCE_ACCESS_USB = NO;
 				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "ice-tag-Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "ice tag";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.action-games";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";

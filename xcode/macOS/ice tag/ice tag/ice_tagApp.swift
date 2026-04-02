@@ -5,10 +5,21 @@ struct ice_tag_app: App {
     @Environment(\.openWindow) private var openWindow
     @AppStorage("usesystemsettings") private var usesystemsettings = true
     @AppStorage("appearancemode") private var appearancemode = "light"
+    
+    // App-wide accent color
+    @AppStorage("accentcolor") private var accentColorData: Data = try! NSKeyedArchiver.archivedData(withRootObject: NSColor.systemBlue, requiringSecureCoding: false)
+    var accentColor: Color {
+        if let nsColor = try? NSKeyedUnarchiver.unarchiveTopLevelObjectWithData(accentColorData) as? NSColor {
+            return Color(nsColor)
+        }
+        return .blue
+    }
 
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .frame(minWidth: 900, minHeight: 600)
+                .accentColor(accentColor)
         }
         .commands {
             CommandGroup(replacing: .appInfo) {
@@ -33,11 +44,34 @@ struct ice_tag_app: App {
                         .foregroundColor(.secondary)
                     
                     Picker("", selection: $appearancemode) {
-                        Text("Light").tag("light")
-                        Text("Dark").tag("dark")
+                        Text("Dark").tag("dark") // Swapped order
+                        Text("Light").tag("light") // Swapped order
                     }
                     .pickerStyle(.segmented)
+                    .accentColor(accentColor)
                     .disabled(usesystemsettings)
+                }
+                
+                VStack(alignment: .leading, spacing: 10) {
+                    Text("ACCENT COLOR")
+                        .font(.system(size: 11, weight: .bold))
+                        .foregroundColor(.secondary)
+                    ColorPicker("Accent Color", selection: Binding(
+                        get: {
+                            if let nsColor = try? NSKeyedUnarchiver.unarchiveTopLevelObjectWithData(accentColorData) as? NSColor {
+                                return Color(nsColor)
+                            }
+                            return .blue
+                        },
+                        set: { newValue in
+                            if let cgColor = newValue.cgColor,
+                               let nsColor = NSColor(cgColor: cgColor),
+                               let data = try? NSKeyedArchiver.archivedData(withRootObject: nsColor, requiringSecureCoding: false) {
+                                accentColorData = data
+                            }
+                        }
+                    ))
+                    .labelsHidden()
                 }
                 
                 Divider()
@@ -52,11 +86,11 @@ struct ice_tag_app: App {
                     Toggle("Match System Settings", isOn: $usesystemsettings)
                         .toggleStyle(.switch)
                         .font(.system(size: 13, weight: .semibold))
-                        .tint(.green) // Sets the "Liquid" color when ON
+                        .tint(accentColor) // Sets the "Liquid" color when ON
                 }
             }
             .padding(30)
-            .frame(width: 350, height: 220)
+            .frame(width: 420, height: 300)
         }
 
         // Loads content from InfoView.swift
@@ -66,3 +100,4 @@ struct ice_tag_app: App {
         .windowResizability(.contentSize)
     }
 }
+
