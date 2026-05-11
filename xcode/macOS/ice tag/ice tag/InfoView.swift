@@ -31,7 +31,7 @@ struct InfoView: View {
                         .font(.system(size: 32, weight: .black))
                         .foregroundStyle(.white)
                     
-                    Text("Version 27.2")
+                    Text("Version 27.4")
                         .font(.system(size: 14, weight: .medium))
                         .foregroundStyle(.white.opacity(0.7))
                 }
